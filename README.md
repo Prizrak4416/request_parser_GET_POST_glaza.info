@@ -1,1 +1,1 @@
-# request_parser_GET_POST_glaza.info
+## Поднимае поданные объявления.
